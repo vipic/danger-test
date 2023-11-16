@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\"",
-    "build": "echo \"build\""
+    "build": "echo \"build\"",
+    "danger": "danger pr https://github.com/vipic/danger-test/pull/1"
   },
   "keywords": [],
   "author": "",
